@@ -1,0 +1,241 @@
+{
+  "users": [
+    {
+      "id": "6w43h",
+      "firstName": "rana",
+      "lastName": "fathy",
+      "userName": "rana2023",
+      "email": "rana@gmail.com",
+      "password": "12345",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "id": "sd535hb",
+      "firstName": "aseel",
+      "lastName": "hisham",
+      "userName": "asola",
+      "email": "aseel@gmail.com",
+      "password": "123456",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "id": "4QIa-U6",
+      "firstName": "yasser",
+      "lastName": "sayed",
+      "userName": "yasser-sayed",
+      "email": "yassersayed@gmail.com",
+      "password": "123456",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "id": "CHFLqTT",
+      "firstName": "sama ",
+      "lastName": "ahmed",
+      "userName": "sama-ahmed",
+      "email": "sama@gmail.com",
+      "password": "123456 ",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "id": "mFCwrNj",
+      "firstName": "ziad",
+      "lastName": "ahmed",
+      "userName": "ziad-ahmed",
+      "email": "ziad@gmail.com",
+      "password": "123456",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "id": "TwVqb08",
+      "firstName": "amira",
+      "lastName": "khaled",
+      "userName": "amira-khaled",
+      "email": "amira@gmail.com",
+      "password": "123456",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "id": "MpSFYZz",
+      "firstName": "ziad",
+      "lastName": "amir",
+      "userName": "amirr",
+      "email": "ziad-amir@gmail.com",
+      "password": "123456",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "id": "YJPid87",
+      "firstName": "neven",
+      "lastName": "shokry",
+      "userName": "neven-shokry",
+      "email": "neven@gmail.com",
+      "password": "123456",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "firstName": "tamer",
+      "lastName": "sa3eed",
+      "userName": "tamer-sa3eed",
+      "email": "tamer@gmail.com",
+      "password": "123456",
+      "id": "ym8L_DD",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "firstName": "tamara",
+      "lastName": "akmal",
+      "userName": "tamara-akmal",
+      "email": "tamara@gmail.com",
+      "password": "123456",
+      "id": "NQavbZZ",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": []
+    },
+    {
+      "email": "gehadsayed@gmail.com",
+      "password": "123456",
+      "favList": [],
+      "PlayList": {},
+      "LastPlayed": [],
+      "id": "ZvtaGmi"
+    },
+    {
+      "username": "marwan-farook#",
+      "firstname": "marwan",
+      "lastname": "marwan",
+      "email": "marwanfarook99@gmail.com",
+      "password": "12345",
+      "PlayList": {
+        "Playlist1": {
+          "Title": "Playlist1",
+          "data": [
+            {
+              "name": "Al-Baqarah ",
+              "writer": "Ibrahim Al-Akdar",
+              "id": 2,
+              "src": "https://server6.mp3quran.net/akdr//002.mp3"
+            },
+            {
+              "name": "Al-Fatihah ",
+              "writer": "Ibrahim Al-Akdar",
+              "id": 1,
+              "src": "https://server6.mp3quran.net/akdr//001.mp3"
+            },
+            {
+              "name": "Ibrahim ",
+              "writer": "Ibrahim Al-Akdar",
+              "id": 14,
+              "src": "https://server6.mp3quran.net/akdr//014.mp3"
+            },
+            {
+              "name": "Hood ",
+              "writer": "Ibrahim Al-Akdar",
+              "id": 11,
+              "src": "https://server6.mp3quran.net/akdr//011.mp3"
+            },
+            {
+              "name": "Al-Fatihah ",
+              "writer": "Akram Alalaqmi",
+              "id": 1,
+              "src": "https://server9.mp3quran.net/akrm//001.mp3"
+            },
+            {
+              "name": "Al-Fatihah ",
+              "writer": "Akram Alalaqmi",
+              "id": 1,
+              "src": "https://server9.mp3quran.net/akrm//001.mp3"
+            },
+            {
+              "name": "Al-Fatihah ",
+              "writer": "Akram Alalaqmi",
+              "id": 1,
+              "src": "https://server9.mp3quran.net/akrm//001.mp3"
+            },
+            {
+              "name": "Al-Fatihah ",
+              "writer": "Akram Alalaqmi",
+              "id": 1,
+              "src": "https://server9.mp3quran.net/akrm//001.mp3"
+            },
+            {
+              "name": "Al-Fatihah ",
+              "writer": "Akram Alalaqmi",
+              "id": 1,
+              "src": "https://server9.mp3quran.net/akrm//001.mp3"
+            }
+          ]
+        },
+        "PlayLIst#2": {
+          "Title": "PlayLIst#2",
+          "data": [
+            {
+              "name": "Al-Ma'idah ",
+              "writer": "Akram Alalaqmi",
+              "id": 5,
+              "src": "https://server9.mp3quran.net/akrm//005.mp3"
+            },
+            {
+              "name": "Radio Ibrahim Al-Akdar",
+              "id": 1
+            }
+          ]
+        },
+        "watch_Later": {
+          "Title": "watch_Later",
+          "description": "",
+          "data": []
+        }
+      },
+      "favList": [],
+      "LastPlayed": [
+        {
+          "currentplaylist": {
+            "src": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad//001.mp3",
+            "id": 1,
+            "writer": "Maher Al Meaqli",
+            "name": "Al-Fatihah "
+          },
+          "recitersid": 102
+        },
+        {
+          "currentplaylist": {
+            "src": "https://server6.mp3quran.net/akdr//001.mp3",
+            "id": 1,
+            "writer": "Ibrahim Al-Akdar",
+            "name": "Al-Fatihah "
+          },
+          "recitersid": 1
+        },
+        {
+          "currentplaylist": {
+            "src": "https://server6.mp3quran.net/akdr//001.mp3",
+            "id": 1,
+            "writer": "Ibrahim Al-Akdar",
+            "name": "Al-Fatihah "
+          },
+          "recitersid": 1
+        }
+      ],
+      "id": "j3LsgxM"
+    }
+  ]
+}

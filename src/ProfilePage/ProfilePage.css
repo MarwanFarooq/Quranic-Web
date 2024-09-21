@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Preahvihear", "Zain", sans-serif, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#backgroundcolor {
+  background-image: linear-gradient(
+    to bottom,
+    #232323,
+    #1c1c1c,
+    #151515,
+    #0c0c0c,
+    #000000
+  );
+}
+::-webkit-scrollbar {
+  @apply bg-[#1f1f1f] w-[2px];
+}
+
+/* scroll bar Handle */
+::-webkit-scrollbar-thumb {
+  @apply bg-[#2d9b4c] rounded-xl;
+}
